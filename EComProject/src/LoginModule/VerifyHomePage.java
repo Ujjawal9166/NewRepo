@@ -44,5 +44,6 @@ public class VerifyHomePage {
 	public void tearDown() {
 		driver.quit();
 	}
+	// successfully push and now pull 
 
 }
